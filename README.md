@@ -8,8 +8,8 @@ This project includes features as:
 * Axios
 * Formik
 * Yup
-* Ant Design
 * Sass
+* Ant Design
 
 ## Available Scripts
 
