@@ -1,6 +1,6 @@
 # React Boilerplate
 
-![alt text](https://raw.githubusercontent.com/Splidejs/react-splide/master/images/react-logo.png) ![alt text](https://upset.js.org/img/typescript-seeklogo.com.svg) ![alt text](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sass-logo.png)
+![alt text](https://raw.githubusercontent.com/Splidejs/react-splide/master/images/react-logo.png) ![alt text](https://upset.js.org/img/typescript-seeklogo.com.svg) ![alt text](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sass-logo.png) ![alt text](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)
 
 This project includes features as:
 * Typescript 4
