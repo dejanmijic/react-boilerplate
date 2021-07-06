@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# React Boilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png) ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg) ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png) ![alt text](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)
+
+This project includes features as:
+* Typescript 4
+* i18next
+* Axios
+* Formik
+* Yup
+* Ant Design
+* Sass
 
 ## Available Scripts
 

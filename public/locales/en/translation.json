@@ -1,0 +1,42 @@
+{
+    "title": "Welcome",
+    "signIn": {
+        "heading": "Sign in",
+        "email": "Email",
+        "password": "Password",
+        "forgotPassword": "Forgot your password?",
+        "socialSignIn": {
+            "label":  "Or sign in with",
+            "google": "Google",
+            "facebook": "Facebook"
+        },
+        "validation": {
+            "emailMessage1": "Email is required!",
+            "emailMessage2": "Invalid email format!",
+            "passwordMessage": "Password is required!"
+        }
+    },
+    "signUp": {
+        "heading": "Sign up",
+        "firstName": "First name",
+        "lastName": "Last name",
+        "confirmPassword": "Confirm password",
+        "socialSignUp": {
+            "label": "Or sign up with"
+        },
+        "validation": {
+            "firstName":"First name is required!",
+            "lastName": "Last name is required!",
+            "password": "Password is required!",
+            "confirmPassword": "Confirm password is required!"
+        }
+    },
+    "dashboard": {
+        "header": {
+            "items": {
+                "home": "Home",
+                "aboutUs": "About Us"
+            }
+        }
+    }
+}

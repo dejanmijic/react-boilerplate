@@ -1,0 +1,32 @@
+.ant-input {
+
+    &-affix-wrapper {
+        &:hover {
+            border-color: $r-color-primary !important;
+        }
+
+        &:focus {
+            border-color: green;
+        }
+
+        &-focused {
+            border-color: $r-color-primary !important;
+        }
+    }
+
+    &::selection {
+        background: $r-color-primary !important;
+    }
+
+    &-focused {
+        border-color: $r-color-primary !important;
+    }
+}
+
+.ant-input-focused {
+    border-color: $r-color-primary !important;
+}
+
+::selection {
+    background: $r-color-primary !important;
+}

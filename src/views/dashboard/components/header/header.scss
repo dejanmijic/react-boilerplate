@@ -1,0 +1,97 @@
+@import '../../../../assets/styles/main';
+
+.header {
+    background: $r-color-light-grey;
+    display: flex;
+    justify-content: space-between;
+
+    &__drawer {
+        border: none;
+        outline: none;
+        background: transparent;
+        cursor: pointer;
+        margin: .5rem 2rem;
+
+        svg {
+            font-size: 1.5rem;
+        }
+    }
+
+    &__left {
+        display: flex;
+
+        &__menu {
+            display: flex;
+            
+            &__item {
+                border: none;
+                outline: none;
+                cursor: pointer;
+                padding: 0 2rem;
+                font-size: 1.2rem;
+                text-transform: uppercase;
+                background-color: transparent;
+
+                &:hover {
+                    color: $r-color-secondary;
+                }
+            }
+
+            .active {
+                color: $r-color-secondary;
+                border-bottom: .1rem solid $r-color-secondary;
+            }
+        }
+
+        &__logo {
+            width: 2.5rem;
+            margin: .5rem 2rem;
+        }
+    }
+
+    &__right {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        a {
+            color: $r-color-black;
+            margin: 0 2rem;
+            font-size: 1.2rem;
+
+            &:hover {
+                color: $r-color-secondary;
+            }
+        }
+    }
+
+}
+
+@media only screen and (max-width: $bp-large) {
+    .header {
+        &__left {
+
+            &__menu {
+                display: none;
+            }
+
+            &__logo {
+                padding: .2rem;
+            }
+        }
+
+        &__right {
+            display: none;
+        }
+    }
+}
+
+@media only screen and (min-width: $bp-large) {
+    .header {
+       &__drawer {
+           display: none;
+       }
+    }
+}
+
+
