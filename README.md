@@ -1,6 +1,6 @@
 # React Boilerplate
 
-![alt text](https://icons-for-free.com/iconfiles/png/128/react+original+wordmark-1324760564365629036.png) ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg) ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png)
+![alt text](https://icons-for-free.com/iconfiles/png/128/react+original+wordmark-1324760564365629036.png) ![alt text](https://upset.js.org/img/typescript-seeklogo.com.svg) ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png)
 
 This project includes features as:
 * Typescript 4
