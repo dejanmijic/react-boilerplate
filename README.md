@@ -1,6 +1,6 @@
 # React Boilerplate
 
-![alt text](https://icons-for-free.com/iconfiles/png/128/react+original+wordmark-1324760564365629036.png) ![alt text](https://upset.js.org/img/typescript-seeklogo.com.svg) ![alt text](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sass-logo.png)
+![alt text](https://e7.pngegg.com/pngimages/452/495/png-clipart-react-javascript-angularjs-ionic-github-text-logo-thumbnail.png) ![alt text](https://upset.js.org/img/typescript-seeklogo.com.svg) ![alt text](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sass-logo.png)
 
 This project includes features as:
 * Typescript 4
