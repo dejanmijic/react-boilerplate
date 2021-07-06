@@ -1,6 +1,6 @@
 # React Boilerplate
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png) ![alt text](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg) ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png) ![alt text](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)
+![alt text](https://raw.githubusercontent.com/Splidejs/react-splide/master/images/react-logo.png) ![alt text](https://upset.js.org/img/typescript-seeklogo.com.svg) ![alt text](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sass-logo.png)
 
 This project includes features as:
 * Typescript 4
@@ -8,8 +8,8 @@ This project includes features as:
 * Axios
 * Formik
 * Yup
-* Ant Design
 * Sass
+* Ant Design
 
 ## Available Scripts
 
@@ -53,3 +53,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+# react-boilerplate
